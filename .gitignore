@@ -1,0 +1,19 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# Environment variables — NEVER push this
+.env
+
+# Frontend
+node_modules/
+dist/
+.env.local
+
+# Uploads and generated files
+uploads/
+*.xlsx
